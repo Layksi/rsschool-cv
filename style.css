@@ -1,0 +1,32 @@
+body {
+    width: 1024px;
+    margin: 0 auto;
+    font-size: 16px;
+    line-height: 26px;
+    font-family: "Arial", sans-serif;
+    background: #d0ece9
+  }
+
+  h1 {
+    font-size: 24px;
+    line-height: normal;
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 26px;
+  }
+
+  img {
+    float: right;
+    max-width: 30%;
+    margin-right: 10px;
+    vertical-align: top;
+    border-radius: 30px;
+  }
+
+  footer {
+    margin-top: 30px;
+    border-top: 1px solid black;
+    padding-top: 10px;
+  }
